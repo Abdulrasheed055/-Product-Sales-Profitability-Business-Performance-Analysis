@@ -194,6 +194,9 @@ Further development could include:
 - Business Insight Generation
 - Strategic Recommendations
 
+
+  ![Dashboard]([Screenshot%20(29).png](http://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/blob/main/Dashboard1.png))
+
 ## 👨‍💻 Author
 
 **Aminu Abdulrasheed**
