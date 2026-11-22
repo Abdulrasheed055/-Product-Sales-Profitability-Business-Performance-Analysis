@@ -1,4 +1,4 @@
-# 📊 Product Sales, Profitability & Business Performance Analysis
+#  Product Sales, Profitability & Business Performance Analysis
 
 ### Turning Business Data into Actionable Insights with Power BI
 
@@ -28,7 +28,7 @@ The primary objectives of this project were to:
 - Identify business performance gaps and opportunities for improvement.
 - Develop actionable recommendations to support strategic business decisions.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Application |
 |---|---|
@@ -38,7 +38,7 @@ The primary objectives of this project were to:
 | Data Visualization | Performance monitoring and trend analysis |
 | Business Intelligence | Insight generation and decision support |
 
-## 📂 Dashboard Structure
+##  Dashboard Structure
 
 The Power BI report consists of four pages:
 
@@ -98,7 +98,7 @@ The project followed a structured data analytics workflow:
 - Highlighted monthly profitability fluctuations.
 - Translated findings into practical business recommendations.
 
-## 📈 Key Performance Indicators
+##  Key Performance Indicators
 
 The analysis revealed the following business performance figures:
 
@@ -111,7 +111,6 @@ The analysis revealed the following business performance figures:
 | Profit Margin | 14.24% |
 | Most-Sold Product | Paseo |
 
-*Note: Financial values are approximate, based on the dashboard's displayed figures.*
 
 ## 🔍 Key Business Insights
 
@@ -170,16 +169,6 @@ This project demonstrates how business intelligence can support organizations in
 - Identifying opportunities for cost optimization.
 - Supporting evidence-based strategic decisions.
 
-## 🚀 Potential Future Enhancements
-
-Further development could include:
-
-- Year-over-year sales and profit comparisons.
-- Product-level and country-level profit margin analysis.
-- Sales and profitability forecasting.
-- Discount impact and pricing analysis.
-- Customer and segment-level performance analysis.
-- Automated executive insights and performance alerts.
 
 ## 🧠 Skills Demonstrated
 
