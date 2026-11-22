@@ -197,6 +197,15 @@ Further development could include:
 
   ![Dashboard](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/blob/main/Dashboard1.png)
 
+   ![Dashboard](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/blob/main/profit.png)
+
+ ![Dashboard](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/blob/main/sale.png)
+
+  ![Dashboard](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/blob/main/insight.png)
+
+   ![Dashboard](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/blob/main/Recommendation.png)
+
+ 
 ## 👨‍💻 Author
 
 **Aminu Abdulrasheed**
