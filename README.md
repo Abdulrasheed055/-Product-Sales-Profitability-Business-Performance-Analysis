@@ -16,7 +16,7 @@ The analysis examines six products across five geographical markets, evaluating 
 
 The resulting dashboard provides a consolidated view of business performance, enabling stakeholders to monitor key metrics, compare product performance, and identify opportunities for growth and cost optimization.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The primary objectives of this project were to:
 
@@ -134,7 +134,7 @@ The United States recorded the highest sales at approximately $25.03M, followed 
 
 October recorded the highest monthly profit, followed by a noticeable decline in November and a recovery in December. These changes highlight the need for continuous monitoring of monthly revenue, costs, and product performance.
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 Based on the findings, the following recommendations were identified:
 
@@ -158,7 +158,7 @@ Maintain strong performance in the USA while investigating opportunities to incr
 
 Investigate the factors associated with October's profit peak and November's decline. Introduce regular performance reviews to identify changes in revenue, costs, and profitability.
 
-## 📊 Business Value
+##  Business Value
 
 This project demonstrates how business intelligence can support organizations in:
 
@@ -170,7 +170,7 @@ This project demonstrates how business intelligence can support organizations in
 - Supporting evidence-based strategic decisions.
 
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Business Intelligence & Data Analytics
 - Microsoft Power BI
@@ -192,13 +192,11 @@ This project demonstrates how business intelligence can support organizations in
 
   ![Dashboard](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/blob/main/insight.png)
 
-   ![Dashboard](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/blob/main/Recommendation.png)
-
+  ![Dashboard](https://github.com/Abdulrasheed055/-Product-Sales-Profitability-Business-Performance-Analysis/blob/main/Recommendation.png)
  
 ## 👨‍💻 Author
 
 **Aminu Abdulrasheed**
-
 Data Analyst | Business Intelligence | AI & Digital Innovation
 
 I enjoy transforming raw data into meaningful insights that help organizations understand performance, identify opportunities, and make better business decisions.
